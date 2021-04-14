@@ -4,5 +4,5 @@ Hola mi nombre es Kristal, soy una persona directa y un tanto perfeccionista.  E
 - 🤔 Busco ayuda para seguir obteniendo más conocimientos en Git Hub.
 - 📫 Para contactarse conmigo, escríbame por Instagram: Kris_bueno1805.
 - 😄 Apodo: Kris.
-- ⚡ Dato curioso: Tengo 17 años, me gusta el baile (sobre todo el Ballet clásico) y la actuación.
+
 
